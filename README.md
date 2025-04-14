@@ -48,7 +48,7 @@ O meu foco é oferecer soluções robustas, seguras e eficientes para empresas q
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielselbachoficial&layout=compact&theme=dark)
 
-![Profile stats](https://github-readme-stats.vercel.app/api?username=danielselbachoficial&show_icons=true&theme=dark&rank_icon=github)
+
 
 ---
 
