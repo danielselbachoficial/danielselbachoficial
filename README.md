@@ -44,13 +44,9 @@ O meu foco é oferecer soluções robustas, seguras e eficientes para empresas q
 
 ## 📈 GitHub Stats
 
-| Estatísticas | Valor |
-|--------------|-------|
-| ⭐ Total Stars Earned | 0 |
-| 🔁 Total Commits | 0 |
-| ⚙️ Total PRs | 0 |
-| 🐛 Total Issues | 0 |
-| 🤝 Contribuições | 0 |
+![Seu nome GitHub's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielselbachoficial&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielselbachoficial&layout=compact&theme=dark)
 
 ![Profile stats](https://github-readme-stats.vercel.app/api?username=danielselbachoficial&show_icons=true&theme=dark&rank_icon=github)
 
