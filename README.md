@@ -1,28 +1,30 @@
-# Hi there 👋
+# 👋 Olá! Seja bem-vindo ao meu GitHub
 
 🔹 **Especialista em Redes | Futuro Especialista em Cibersegurança | +12 anos de experiência em TI & Telecom**
 
-Sou um profissional com quase 12 anos de carreira, atuando há 9 anos na área de Tecnologia da Informação e acumulando ampla experiência em Telecomunicações. Minha especialidade é em **Redes de Computadores** e estou em constante evolução para me tornar também um especialista em **Cibersegurança**.
+Sou um profissional com mais de 12 anos de trajetória em Tecnologia da Informação e Telecomunicações, sendo os últimos 9 dedicados a infraestrutura de redes. Tenho sólida experiência em ambientes críticos e foco em soluções robustas, seguras e de alta performance para empresas.
 
-O meu foco é oferecer soluções robustas, seguras e eficientes para empresas que buscam **alta performance e segurança** em suas infraestruturas.
+Atualmente, estou expandindo minha atuação para a área de Cibersegurança, com o objetivo de integrar ainda mais proteção e resiliência às infraestruturas que projeto e gerencio.
 
 ## 🧠 Certificações
 
 - ✅ MTCNA – MikroTik Certified Network Associate  
 - ✅ FCF – Fortinet Certified Fundamentals  
 - ✅ FCA – Fortinet Certified Associate  
-- ✅ Analista Profissional de NOC  
+- ✅ Analista Profissional de SOC  
 - ✅ Segurança Linux - Essencial  
 
-🎓 Atualmente, curso **Gestão em Tecnologia da Informação** e me capacito continuamente em **Inglês**, visando atuação internacional.
+🎓 Estudando Gestão em Tecnologia da Informação e aprimorando o Inglês técnico para atuação global.
 
 ---
 
 ## 💡 Sobre Mim
 
-💻 Apaixonado por **tecnologia, segurança da informação e inovação**  
-🔐 Missão: Fortalecer infraestruturas de rede com desempenho e segurança  
-🌐 Em busca de projetos que desafiem e ampliem meus horizontes técnicos e estratégicos.
+🙏 Cristão – princípios como integridade, respeito e compromisso orientam minha atuação profissional e pessoal.
+💻 Apaixonado por tecnologia, segurança da informação e inovação.
+🔐 Missão: Fortalecer redes com desempenho, estabilidade e segurança.
+🚀 Sempre em busca de desafios que ampliem minha visão técnica e estratégica.
+🌐 Interesse crescente por projetos internacionais e ambientes multidisciplinares.
 
 ---
 
