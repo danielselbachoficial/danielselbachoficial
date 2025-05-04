@@ -35,6 +35,7 @@ Atualmente, estou expandindo minha atuação para a área de Cibersegurança, co
 ![MikroTik](https://img.shields.io/badge/-MikroTik-red)
 ![Fortinet](https://img.shields.io/badge/-Fortinet-black)
 ![NOC](https://img.shields.io/badge/-NOC-green)
+![SOC](https://img.shields.io/badge/-SOC-darkblue)
 ![Linux](https://img.shields.io/badge/-Linux-blue)
 ![Cisco](https://img.shields.io/badge/-Cisco-yellow)
 ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-orange)
