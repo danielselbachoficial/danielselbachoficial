@@ -20,11 +20,11 @@ Atualmente, estou expandindo minha atuação para a área de Cibersegurança, co
 
 ## 💡 Sobre Mim
 
-🙏 Cristão – princípios como integridade, respeito e compromisso orientam minha atuação profissional e pessoal.
-💻 Apaixonado por tecnologia, segurança da informação e inovação.
-🔐 Missão: Fortalecer redes com desempenho, estabilidade e segurança.
-🚀 Sempre em busca de desafios que ampliem minha visão técnica e estratégica.
-🌐 Interesse crescente por projetos internacionais e ambientes multidisciplinares.
+- 🙏 Cristão – princípios como integridade, respeito e compromisso orientam minha atuação profissional e pessoal.
+- 💻 Apaixonado por tecnologia, segurança da informação e inovação.
+- 🔐 Missão: Fortalecer redes com desempenho, estabilidade e segurança.
+- 🚀 Sempre em busca de desafios que ampliem minha visão técnica e estratégica.
+- 🌐 Interesse crescente por projetos internacionais e ambientes multidisciplinares.
 
 ---
 
