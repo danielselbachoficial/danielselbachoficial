@@ -8,7 +8,8 @@ Atualmente, estou expandindo minha atuação para a área de Cibersegurança, co
 
 ## 🧠 Certificações
 
-- ✅ MTCNA – MikroTik Certified Network Associate  
+- ✅ MTCNA – MikroTik Certified Network Associate
+- ✅ MTCSE – MikroTik Certified Security Engineer  
 - ✅ FCF – Fortinet Certified Fundamentals  
 - ✅ FCA – Fortinet Certified Associate  
 - ✅ Analista Profissional de SOC  
