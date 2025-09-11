@@ -12,8 +12,8 @@ Atualmente, estou expandindo minha atuação para a área de Cibersegurança, co
 - ✅ MTCSE – MikroTik Certified Security Engineer  
 - ✅ FCF – Fortinet Certified Fundamentals  
 - ✅ FCA – Fortinet Certified Associate  
-- ✅ Analista Profissional de SOC  
-- ✅ Segurança Linux - Essencial  
+- ✅ IBSEC - Analista Profissional de SOC  
+- ✅ IBSEC - Segurança Linux - Essencial  
 
 🎓 Estudando Gestão em Tecnologia da Informação e aprimorando o Inglês técnico para atuação global.
 
