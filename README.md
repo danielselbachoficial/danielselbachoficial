@@ -12,8 +12,13 @@ Atualmente, estou expandindo minha atuação para a área de Cibersegurança, co
 - ✅ MTCSE – MikroTik Certified Security Engineer  
 - ✅ FCF – Fortinet Certified Fundamentals  
 - ✅ FCA – Fortinet Certified Associate  
-- ✅ IBSEC - Analista Profissional de SOC  
-- ✅ IBSEC - Segurança Linux - Essencial  
+- ✅ IBSEC - Professional SOC Analyst 
+- ✅ IBSEC - Linux Security Essentials
+- ✅ Acronis - Acronis Cloud Tech Fundamentals
+- ✅ Acronis - Acronis Cloud Sales Fundamentals
+- ✅ Ruijie - Ruijie Specialist Engineer (RSE) Reyee Solution (For Office)
+- ✅ Grandstream - Grandstream Certified Specialist Network Solution
+
 
 🎓 Estudando Gestão em Tecnologia da Informação e aprimorando o Inglês técnico para atuação global.
 
