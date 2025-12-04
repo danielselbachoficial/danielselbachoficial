@@ -24,7 +24,7 @@ Sou um profissional com mais de 12 anos de trajetória em Tecnologia da Informa�
 - ✅ Ruijie - Specialist Engineer (RSE) Reyee Solution (For Office)
 - ✅ Grandstream - Certified Specialist Network Solution
 
-**Cloud & Complementares:**
+**Cloud:**
 - ✅ Acronis - Acronis Cloud Tech Fundamentals
 - ✅ Acronis - Acronis Cloud Sales Fundamentals
 
@@ -77,7 +77,7 @@ Sou um profissional com mais de 12 anos de trajetória em Tecnologia da Informa�
 ## 🌍 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/danielselbachoficial/)
-[![Email](https://img. shields.io/badge/-Email-informational?style=flat&logo=gmail)](mailto:danielselbach.fig@email.com)
+[![Email](https://img.shields.io/badge/-Email-informational?style=flat&logo=gmail)](mailto:danielselbach.fig@email.com)
 
 ---
 
