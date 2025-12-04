@@ -51,10 +51,10 @@ Sou um profissional com mais de 12 anos de trajetória em Tecnologia da Informa�
 
 ## 🧰 Skills & Tecnologias
 
-![Redes](https://img.shields. io/badge/-Redes%20de%20Computadores-blue)
+![Redes](https://img.shields.io/badge/-Redes%20de%20Computadores-blue)
 ![Cibersegurança](https://img.shields.io/badge/-Cibersegurança-critical)
-![Penetration Testing](https://img. shields.io/badge/-Penetration%20Testing-darkred)
-![Red Team](https://img.shields. io/badge/-Red%20Team-red)
+![Penetration Testing](https://img.shields.io/badge/-Penetration%20Testing-darkred)
+![Red Team](https://img.shields.io/badge/-Red%20Team-red)
 ![MikroTik](https://img.shields.io/badge/-MikroTik-red)
 ![Fortinet](https://img.shields.io/badge/-Fortinet-black)
 ![Linux](https://img.shields.io/badge/-Linux-blue)
