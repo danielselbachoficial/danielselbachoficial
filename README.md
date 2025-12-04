@@ -33,7 +33,6 @@ Sou um profissional com mais de 12 anos de trajetória em Tecnologia da Informa�
 - 📖 CAPT – Certified Associate Penetration Tester
 - 📖 CWSE – Certified Web Security Expert
 - 📖 ACE – Associate Cloud Engineer
-- 📖 Gestão em Tecnologia da Informação
 - 📖 Inglês Técnico para atuação global
 
 ---
