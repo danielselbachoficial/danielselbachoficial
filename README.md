@@ -1,8 +1,8 @@
 # 👋 Olá! Seja bem-vindo ao meu GitHub
 
-🔹 **Especialista em Redes | Futuro Especialista em Cibersegurança | +12 anos de experiência em TI & Telecom**
+🔹 **Redes, Cibersegurança e Cloud | +12 anos de experiência em TI & Telecom**
 
-Sou um profissional com mais de 12 anos de trajetória em Tecnologia da Informação e Telecomunicações, sendo os últimos 9 dedicados a infraestrutura de redes. Tenho sólida experiência em ambientes críticos e foco em soluções robustas, seguras e de alta performance para empresas.
+Sou um profissional com mais de 12 anos de trajetória em Tecnologia da Informação e Telecomunicações, sendo 9 anos dedicados a TI e mais de 3 anos dedicados a Telecomicações. Tenho sólida experiência em ambientes críticos e foco em soluções robustas, seguras e de alta performance para empresas.
 
 Atualmente, estou expandindo minha atuação para a área de Cibersegurança, com o objetivo de integrar ainda mais proteção e resiliência às infraestruturas que projeto e gerencio.
 
@@ -18,7 +18,10 @@ Atualmente, estou expandindo minha atuação para a área de Cibersegurança, co
 - ✅ Acronis - Acronis Cloud Sales Fundamentals
 - ✅ Ruijie - Ruijie Specialist Engineer (RSE) Reyee Solution (For Office)
 - ✅ Grandstream - Grandstream Certified Specialist Network Solution
-
+- ✅ Starti - Technical Foundations 
+- ✅ Starti - Technical Analyst
+- ✅ Starti - Technical Expert
+- ✅ Certified Cybersecurity Educator Professional (CCEP)
 
 🎓 Estudando Gestão em Tecnologia da Informação e aprimorando o Inglês técnico para atuação global.
 
