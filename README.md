@@ -68,9 +68,9 @@ Sou um profissional com mais de 12 anos de trajetória em Tecnologia da Informa�
 
 ## 📈 GitHub Stats
 
-![Profile stats](https://github-readme-stats.vercel.app/api?username=danielselbachoficial&show_icons=true&theme=dark&rank_icon=github)
+![Profile stats](https://github-readme-stats.vercel.app/api?username=danielselbachoficial&showicons=true&theme=dark&rank_icon=github)
 
-![Top Languages](https://github-readme-stats. vercel.app/api/top-langs/?username=danielselbachoficial&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danielselbachoficial&layout=compact&theme=dark)
 
 ---
 
