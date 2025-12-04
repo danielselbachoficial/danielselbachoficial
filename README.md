@@ -71,6 +71,8 @@ Sou um profissional com mais de 12 anos de trajetória em Tecnologia da Informa�
 [![GitHub followers](https://img.shields.io/github/followers/danielselbachoficial?label=Followers&style=social)](https://github.com/danielselbachoficial)
 [![GitHub stars](https://img.shields.io/github/stars/danielselbachoficial?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/danielselbachoficial)
 
+Confira meus repositórios, contribuições e projetos diretamente no [meu perfil GitHub](https://github.com/danielselbachoficial) 🚀
+
 ---
 
 ## 🌍 Conecte-se comigo
