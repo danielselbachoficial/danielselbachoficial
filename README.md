@@ -17,6 +17,7 @@ Sou um profissional com mais de 12 anos de trajetória em Tecnologia da Informa�
 - ✅ Starti - Technical Foundations 
 - ✅ Starti - Technical Analyst
 - ✅ Starti - Technical Expert
+- ✅ CAPT - Certified Associate Penetration Tester
 
 **Redes & Infraestrutura:**
 - ✅ MTCNA – MikroTik Certified Network Associate
