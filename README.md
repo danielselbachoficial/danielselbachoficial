@@ -32,7 +32,6 @@ Sou um profissional com mais de 12 anos de trajetória em Tecnologia da Informa�
 
 🎓 **Em Progresso:**
 - 📖 CWSE – Certified Web Security Expert
-- 📖 ACE – Associate Cloud Engineer
 - 📖 Inglês Técnico para atuação global
 
 ---
