@@ -19,11 +19,13 @@ Sou um profissional com mais de 12 anos de trajetória em Tecnologia da Informa�
 - ✅ Starti - Technical Expert
 - ✅ CAPT - Certified Associate Penetration Tester
 
+
 **Redes & Infraestrutura:**
 - ✅ MTCNA – MikroTik Certified Network Associate
 - ✅ FCF – Fortinet Certified Fundamentals
 - ✅ Ruijie - Specialist Engineer (RSE) Reyee Solution (For Office)
 - ✅ Grandstream - Certified Specialist Network Solution
+- ✅ URSCA UniFi Routing, Switching & Cybersecurity Admin
 
 **Cloud:**
 - ✅ Acronis - Acronis Cloud Tech Fundamentals
