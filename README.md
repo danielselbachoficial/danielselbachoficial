@@ -33,7 +33,7 @@ I am a professional with over 12 years of experience in Information Technology a
 
 
 🎓 **In Progress:**
-- 📖 DIO GLOBAL - Inglês Técnico para atuação global
+- 📖 DIO GLOBAL - Technical English for global performance
 
 ---
 
