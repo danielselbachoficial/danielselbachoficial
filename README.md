@@ -8,7 +8,7 @@ I am a professional with over 12 years of experience in Information Technology a
 
 ## 🧠 Certifications
 
-**Security & Cybersecurity:**
+**Cybersecurity:**
 - ✅ MTCSE – MikroTik Certified Security Engineer  
 - ✅ FCA – Fortinet Certified Associate  
 - ✅ IBSEC - Professional SOC Analyst 
