@@ -23,9 +23,11 @@ I am a professional with over 12 years of experience in Information Technology a
 **Networks and Infrastructure:**
 - ✅ MTCNA – MikroTik Certified Network Associate
 - ✅ FCF – Fortinet Certified Fundamentals
-- ✅ Ruijie - Specialist Engineer (RSE) Reyee Solution (For Office)
+- ✅ Ruijie Networks - Specialist Engineer (RSE) Reyee Solution (For Office)
 - ✅ Grandstream - Certified Specialist Network Solution
 - ✅ URSCA UniFi Routing, Switching & Cybersecurity Admin
+- ✅ Ruijie Networks - Ruijie Specialist Engineer (SMB Product Associate)   
+- ✅ Ruijie Networks - Ruijie Specialist Engineer (SMB Product Advanced)
 
 **Cloud:**
 - ✅ Acronis - Acronis Cloud Tech Fundamentals
